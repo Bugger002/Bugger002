@@ -1,4 +1,4 @@
-Hi, my name is Fanel and i am looking upon to learn coding and becoming the best at it.
+Click to see more...
 
 <!---
 Bugger002/Bugger002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
